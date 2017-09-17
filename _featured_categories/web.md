@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Artwork
-slug: artwork
+title: Web
+slug: web
 menu: false
 submenu: false
 order: 1

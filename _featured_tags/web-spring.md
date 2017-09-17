@@ -1,6 +1,6 @@
 ---
 layout: tag-blog
-title: spring
+title: Spring
 slug: spring
 category: web
 menu: false
