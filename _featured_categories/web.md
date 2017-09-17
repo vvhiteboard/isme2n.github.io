@@ -6,5 +6,5 @@ menu: false
 submenu: false
 order: 1
 description: >
-  디자인이나 창작물들을 담습니다.
+  웹과 관련된 내용을 담는다.
 ---
