@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
 title: Nextstep
-slug: nexstep
+slug: nextstep
 category: web
 menu: false
 order: 2

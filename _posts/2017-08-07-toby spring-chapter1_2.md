@@ -5,10 +5,6 @@ categories: web
 tags: spring
 ---
 
-## 목록
-
----
-
 -  객체지향 설계원칙 (SOLID)
 -  전략 패턴 (Strategy Pattern)
 

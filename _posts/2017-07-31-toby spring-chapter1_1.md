@@ -5,10 +5,6 @@ categories: web
 tags: spring
 ---
 
-### 목록
-
----
-
 -  JavaBean 규약
 -  팩토리 메소드 패턴
 

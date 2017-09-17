@@ -5,13 +5,13 @@ categories: web
 tags: spring
 ---
 
-(p183 ~ p196)
-
 -  @RunWith
 -  @ContextConfiguration
 -  @DirtiesContext
 -  DI를 적용해야하는 이유
 -  침투적 / 비침투적 기술
+
+> (p183 ~ p196)
 
 <br>
 

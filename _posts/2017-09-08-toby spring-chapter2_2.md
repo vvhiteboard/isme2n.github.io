@@ -5,16 +5,10 @@ categories: web
 tags: spring
 ---
 
-(p161 ~ p183)
-
-<br>
-
-## 목록
-
----
 
 -  JUnit
 
+> (p161 ~ p183)
 
 <br>
 
