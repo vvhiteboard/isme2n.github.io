@@ -5,9 +5,6 @@ categories: spring
 tags: web spring toby
 ---
 
-
-# Chapter 2-2
-
 (p161 ~ p183)
 
 <br>
