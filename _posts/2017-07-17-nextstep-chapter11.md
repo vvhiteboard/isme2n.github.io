@@ -1,5 +1,12 @@
-# EJB(Enterprise JavaBean)
+---
+layout: post
+title:  "Chapter 11"
+categories: web
+tags: nextstep
+---
 
+
+# EJB(Enterprise JavaBean)
 
 
 **[EJB란]**

@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Chapter 12"
+categories: web
+tags: nextstep
+---
+
 # @SuppressWarnings
 
 코드 컴파일시 컴파일 경고를 하지 않도록 하는 어노테이션 설정

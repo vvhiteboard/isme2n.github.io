@@ -1,12 +1,8 @@
 ---
 layout: post
 title:  "Chapter 9"
-categories: nextStep
-tags: jekyll blog theme devlog
----
-
-### 모르는것
-
+categories: web
+tags: nextstep
 ---
 
 -  WebServer의 초기화 과정

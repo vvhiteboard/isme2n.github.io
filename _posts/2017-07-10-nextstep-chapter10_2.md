@@ -1,4 +1,9 @@
-# 10장 (chapter 2) 
+---
+layout: post
+title:  "Chapter 10-2"
+categories: web
+tags: nextstep
+---
 
 ## URI와 URL 
 
