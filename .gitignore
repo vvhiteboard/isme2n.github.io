@@ -3,6 +3,7 @@ _gh_pages
 _site
 _drafts
 .ruby-version
+.git_backup
 
 # Numerous always-ignore extensions
 *.diff
