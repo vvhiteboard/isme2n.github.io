@@ -28,7 +28,7 @@ tags: spring
 
 **[템플릿 콜백 패턴 흐름도]**
 
-![2017-09-25-toby spring-chapter3_3_1](./2017-09-25-toby spring-chapter3_3_1.JPG){.aligncenter} 
+![./2017-09-25-toby spring-chapter3_3_1.JPG](./2017-09-25-toby spring-chapter3_3_1.JPG){.aligncenter} 
 
 1. 먼저 클라이언트는 템플릿에서 자신의 전략에 맞는 콜백을 생성한다.
 2. 템플릿을 호출하면서 콜백을 전달한다. (DI 적용)
