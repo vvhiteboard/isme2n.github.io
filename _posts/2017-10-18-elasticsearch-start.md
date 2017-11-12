@@ -1,24 +1,24 @@
 ---
 layout: post
-title:  "Elastic Search 설치하기"
+title:  "Elasticsearch 설치하기"
 categories: general
 tags: elasticsearch
 ---
 
 
--  Elastic Search 설치하기
+-  Elasticsearch 설치하기
 -  샘플 검색
 
 
 
 
-### Elastic Search 설치하기
+### Elasticsearch 설치하기
 
 ---
 
 설치 방법은 매우 간단하다.
 
-1. Elastic Search 공식 사이트 접속
+1. Elasticsearch 공식 사이트 접속
 
    >  https://www.elastic.co/kr/downloads/elasticsearch
 
@@ -32,11 +32,11 @@ tags: elasticsearch
 **[설치 환경]**
 
 -  Mac OS
--  Elastic Search 5.6.3
+-  Elasticsearch 5.6.3
 
 
 
-Elastic Search가 버전 별로 사용법이 조금 상이하다고 한다. 실습용 교재인 Elasticsearch In Action은 1.x 버전을 사용하고 있지만 나는 5.x 버전을 사용할 예정이므로 책에서 나오는 예제 코드가 동작하지 않을 수도 있기 때문에 그 부분을 참고하면서 실습을 진행하고자 한다.
+Elasticsearch가 버전 별로 사용법이 조금 상이하다고 한다. 실습용 교재인 Elasticsearch In Action은 1.x 버전을 사용하고 있지만 나는 5.x 버전을 사용할 예정이므로 책에서 나오는 예제 코드가 동작하지 않을 수도 있기 때문에 그 부분을 참고하면서 실습을 진행하고자 한다.
 
 <br>
 

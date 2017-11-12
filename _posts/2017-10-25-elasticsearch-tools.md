@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elastic Search 관련 도구"
+title:  "Elasticsearch 관련 도구"
 categories: general
 tags: elasticsearch
 ---

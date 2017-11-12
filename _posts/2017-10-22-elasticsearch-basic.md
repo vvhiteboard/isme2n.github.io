@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elastic Search 기본"
+title:  "Elasticsearch 기본"
 categories: general
 tags: elasticsearch
 ---
@@ -20,7 +20,7 @@ tags: elasticsearch
 
 ------
 
-Elastic Search에서 사용하는 용어를 설명한다.
+Elasticsearch에서 사용하는 용어를 설명한다.
 
 -  인덱스(index)
 
