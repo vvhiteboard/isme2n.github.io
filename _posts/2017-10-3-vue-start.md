@@ -131,5 +131,5 @@ new Vue({
 
 #### 라이프 사이클 다이어그램
 
-![lifecycle](/Users/loopin/Desktop/document/study/vue/lifecycle.png)
+![라이프사이클]({{ site.url }}/assets/img/posts/2017-10-3-vue-start.png)
 
