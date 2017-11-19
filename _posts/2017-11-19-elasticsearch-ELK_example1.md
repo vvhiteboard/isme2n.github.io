@@ -7,17 +7,13 @@ tags: elasticsearch
 
 
 
--  Logstash를 이용한 색인 데이터 추가
-
-   -  logstash config 설정
-   -  데이터 넣어보기 실습
-   -  logstash와 MySQL 연동하기
-   -  DB 데이터를 Elasticsearch에 색인하기
-
-   ​
+-  logstash config 설정
+-  데이터 넣어보기 실습
+-  logstash와 MySQL 연동하기
+-  DB 데이터를 Elasticsearch에 색인하기
 
 
-
+<br>
 
 
 ### Logstash를 이용한 색인 데이터 추가

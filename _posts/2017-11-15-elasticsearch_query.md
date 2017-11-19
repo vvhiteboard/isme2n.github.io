@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Elasticsearch 색인데이터 추가"
+title:  "Elasticsearch 색인데이터 처리하기"
 categories: general
 tags: elasticsearch
 ---
 
 
 
--  타입정보 (Type) 관련
+-  색인데이터 처리하기
 
 
 <br>
 
-### 타입 정보 (Type) 관련
+### 색인데이터 처리하기
 
 ---
 
