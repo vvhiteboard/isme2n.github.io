@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Vue 시작하기"
+title:  "Vue 시작하기"
 categories: web
 tags: vue
 ---
