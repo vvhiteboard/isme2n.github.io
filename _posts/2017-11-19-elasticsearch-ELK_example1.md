@@ -139,13 +139,15 @@ output {
       표준출력으로 보내겠다는 뜻이다. 코덱은 rubydebug로 지정한다. rubydebug로 설정하면 ruby의 awesome_print 라이브러리를 이용하여 json을 보기좋게 출력해준다.
 
 
+<br>
+
 
 #### 데이터 넣어보기 실습
 
 logstash config 설정에서 알아본 예제 파일을 적용하여 logstash 실행해보자
 
 ```sh
-./logstash -f ../config/logstash.test.conf # 해당 설정파일로 로그스태시
+./logstash -f ../config/logstash.test.conf # 해당 설정파일로 로그스태시 실행
 # 설정파일이 제대로 적용되는지 테스트를 해보고 싶으면 -t 옵션을 추가한다.
 ```
 
@@ -267,6 +269,4 @@ output {
 
 statement에서 조회 쿼리를 작성할 때 조회할 칼럼 이름을 elasticsearch의 필드명과 동일하게 하면 조회한 데이터의 칼럼명과 동일한 필드에 색인한다. 또한 statement를 위와같이 config 파일이 아닌 따로 파일로 작성하여 추가할 수도 있는데 해당 방법은 나중에 추후 필요할 때 다시 알아보려고 한다.
 
-위와 같이 설정한 후 logstash를 위의 config 파일로 실행하면 DB에서 데이터를 읽어 elasticsearch에 저장한다.
-
-대량의 데이터를 elasticsearch에 색인하려는 경우 logstash를 이용하면 간단하게 데이터를 색인 할 수 있다.
+위와 같이 설정한 후 logstash를 위의 config 파일로 실행하면 DB에서 데이터를 읽어 elasticsearch에 저장한다. 대량의 데이터를 elasticsearch에 색인하려는 경우 logstash를 이용하면 간단하게 데이터를 색인 할 수 있다.
